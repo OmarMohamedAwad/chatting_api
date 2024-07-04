@@ -55,5 +55,4 @@ to avoid racing conditions: (update the chats_count, messages_count) I used the 
 ### Services
 
 1. Elasticsearch and Searchkick: for searching through messages content
-2. Sidekiq: for queuing and executing jobs
-3. MySQL
+2. MySQL
